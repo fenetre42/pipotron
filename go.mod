@@ -6,6 +6,7 @@ require (
 	github.com/Masterminds/goutils v1.1.0 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible
+	github.com/Masterminds/sprig/v3 v3.0.2
 	github.com/ajg/form v1.5.1
 	github.com/aws/aws-lambda-go v1.13.3
 	github.com/gobuffalo/envy v1.8.1 // indirect
